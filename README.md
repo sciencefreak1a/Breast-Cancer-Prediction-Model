@@ -1,5 +1,7 @@
 Breast Cancer Prediction with Supervised Machine Learning
+
 Project Overview
+
 Breast cancer is a significant health concern with far-reaching social and economic implications. Accurate prediction and early detection are crucial for improving patient outcomes and reducing the overall impact of the disease. This project aims to develop a supervised machine learning model for breast cancer prediction, specifically differentiating between benign and malignant cases using pathological data.
 
 Objectives
